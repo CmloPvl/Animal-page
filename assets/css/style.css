@@ -25,7 +25,7 @@ header h1 {
 
 @font-face {
   font-family: "Raleway-Medium";
-  src: url("/assets/font/static/Raleway-Medium.ttf") format("truetype");
+  src: url("../font/static/Raleway-Medium.ttf") format("truetype");
 }
 
 /* imagen header */
